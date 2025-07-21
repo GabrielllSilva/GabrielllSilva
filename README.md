@@ -49,5 +49,5 @@ Here you can list your skills. A visually appealing way to do this is by using i
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielllsilva&theme=dark" alt="GitHub Streak" />
 </p>
