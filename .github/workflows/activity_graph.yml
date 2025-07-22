@@ -1,0 +1,21 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    # Roda a cada 12 horas para manter o gráfico atualizado
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+    # Adiciona um botão para rodar o script manualmente na aba "Actions"
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Activity Graph
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ashutosh00710/github-readme-activity-graph@v1
+        with:
+          # Token de autenticação fornecido pelo GitHub. Essencial para acessar seus dados.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use seu username do GitHub aqui
+          USERNAME: gabrielllsilva
