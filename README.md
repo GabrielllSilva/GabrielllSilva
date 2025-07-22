@@ -59,10 +59,10 @@ Here you can list your skills. A visually appealing way to do this is by using i
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielllsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllsilva&layout=compact&langs_count=7&theme=dracula"/>
+
+  ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielllsilva&theme=react-dark&hide_border=true)
+
+  ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gabrielllsilva&theme=dracula&column=7)
 </p>
-
-![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielllsilva&theme=react-dark&hide_border=true)
-
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gabrielllsilva&theme=dracula&column=7)
 
 ---
