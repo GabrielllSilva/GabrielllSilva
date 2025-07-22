@@ -20,7 +20,7 @@ Here you can list your skills. A visually appealing way to do this is by using i
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -60,5 +60,9 @@ Here you can list your skills. A visually appealing way to do this is by using i
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielllsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllsilva&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
+![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielllsilva&theme=react-dark&hide_border=true)
+
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gabrielllsilva&theme=dracula&column=7)
 
 ---
