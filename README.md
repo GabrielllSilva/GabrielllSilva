@@ -62,6 +62,8 @@ Here you can list your skills. A visually appealing way to do this is by using i
 
   ![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielllsilva&theme=react-dark&hide_border=true)
 
+  [![Gráfico de Atividade do GitHub do Gabriel](https://github-readme-activity-graph.vercel.app/graph?username=GabrielllSilva&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gabrielllsilva&theme=dracula&column=7)
 </p>
 
