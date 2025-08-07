@@ -13,9 +13,9 @@ jobs:
     name: Generate Activity Graph
     steps:
       - uses: actions/checkout@v4
-      - uses: ashutosh00710/github-readme-activity-graph@main
+      - uses: GabrielllSilva/github-readme-activity-graph@main
         with:
           # Token de autenticação fornecido pelo GitHub. Essencial para acessar seus dados.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
           # Use seu username do GitHub aqui
           USERNAME: gabrielllsilva
